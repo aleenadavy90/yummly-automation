@@ -1,0 +1,13 @@
+<suite name="TestSuiteYummly">
+<test name="TestCases" preserve-order="true">
+<classes> 
+   <class name="com.yummly.TestCases">   
+      <methods>
+        <include name="Test_A" />
+        <include name="Test_B" /> 
+        <include name="Test_C" /> 
+      </methods>
+   </class>
+</classes>
+</test>
+</suite>

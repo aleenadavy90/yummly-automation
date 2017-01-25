@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuiteYummly" duration-ms="100386" started-at="2017-01-25T21:59:46Z" finished-at="2017-01-25T22:01:26Z">
+    <groups>
+    </groups>
+    <test name="TestCases" duration-ms="100386" started-at="2017-01-25T21:59:46Z" finished-at="2017-01-25T22:01:26Z">
+      <class name="com.yummly.TestCases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="beforeMethod" is-config="true" duration-ms="7178" started-at="2017-01-25T13:59:46Z" finished-at="2017-01-25T13:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test_A()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="Test_A" duration-ms="9976" started-at="2017-01-25T13:59:53Z" finished-at="2017-01-25T14:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_A -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="afterMethod" is-config="true" duration-ms="657" started-at="2017-01-25T14:00:03Z" finished-at="2017-01-25T14:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="beforeMethod" is-config="true" duration-ms="6493" started-at="2017-01-25T14:00:04Z" finished-at="2017-01-25T14:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test_B()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="Test_B" duration-ms="23518" started-at="2017-01-25T14:00:10Z" finished-at="2017-01-25T14:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_B -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="afterMethod" is-config="true" duration-ms="827" started-at="2017-01-25T14:00:34Z" finished-at="2017-01-25T14:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="beforeMethod" is-config="true" duration-ms="6705" started-at="2017-01-25T14:00:35Z" finished-at="2017-01-25T14:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test_C()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="Test_C" duration-ms="44273" started-at="2017-01-25T14:00:41Z" finished-at="2017-01-25T14:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_C -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yummly.TestCases@6a2bcfcb]" name="afterMethod" is-config="true" duration-ms="732" started-at="2017-01-25T14:01:26Z" finished-at="2017-01-25T14:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.yummly.TestCases -->
+    </test> <!-- TestCases -->
+  </suite> <!-- TestSuiteYummly -->
+</testng-results>
